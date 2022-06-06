@@ -2,7 +2,7 @@
 #### _Nikolai Mochalov_
 ---
 ### ___2. Contacts___
-* Location: Kazan, Russia
+* Location: Kazan,Russia
 * Phone: +7927****072
 * Email: vgrudioskoloklda@gmail.com
 * GitHub: NikolayMochalov
