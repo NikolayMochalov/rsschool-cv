@@ -26,9 +26,7 @@
 ### ___5. Code Example___
 ```
 const fruits = ['apple', 'orange', 'banana']
-
 const [fruitOne, fruitTwo, fruitThree] = fruits
-
 console.log(fruitOne)
 console.log(fruitTwo)
 console.log(fruitThree) 
