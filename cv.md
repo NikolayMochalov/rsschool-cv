@@ -31,7 +31,7 @@ const [fruitOne, fruitTwo, fruitThree] = fruits
 
 console.log(fruitOne)
 console.log(fruitTwo)
-console.log(fruitThree)
+console.log(fruitThree) 
 ```
 
 ---
