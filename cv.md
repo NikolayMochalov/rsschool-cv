@@ -7,7 +7,7 @@
 * Email: vgrudioskoloklda@gmail.com
 * GitHub: NikolayMochalov
 * vk.com/overmodest
-* instagramm: nikolay.mochalov
+* instagram: nikolay.mochalov
 ---
 ### ___3. About me___
 #### *I'm 33. Now I'm a graduate student at Kazan State Power Enegineering University. I recently decided to learn Javascript to try the profession of a front-end programmer*
